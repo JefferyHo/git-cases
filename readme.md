@@ -1,1 +1,1 @@
-# Git case
+# Git cases
